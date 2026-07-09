@@ -9,3 +9,15 @@ El objetivo consistió en evaluar la calidad de la aplicación **Urban Scooter**
 ## 🎯 Objetivo
 
 Aplicar técnicas de pruebas manuales para evaluar la calidad de una aplicación de movilidad urbana, diseñando casos de prueba, listas de comprobación y validaciones que permitieran identificar posibles defectos y verificar el cumplimiento de los requisitos funcionales tanto en la versión web como en la aplicación móvil.
+
+## 👩‍💻 Mi rol en el proyecto
+
+Como QA Engineer en formación, participé en el proceso de aseguramiento de la calidad de la aplicación Urban Scooter mediante la planificación y documentación de pruebas manuales.
+
+Mis principales responsabilidades fueron:
+
+- Analizar los requisitos funcionales del sistema.
+- Diseñar casos de prueba para validar diferentes funcionalidades.
+- Elaborar listas de comprobación (checklists) para verificar el comportamiento esperado de la aplicación.
+- Realizar la validación de datos de prueba.
+- Documentar los artefactos generados durante el proceso de pruebas.
