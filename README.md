@@ -12,12 +12,13 @@ Aplicar técnicas de pruebas manuales para evaluar la calidad de una aplicación
 
 ## 👩‍💻 Mi rol en el proyecto
 
-Como QA Engineer en formación, participé en el proceso de aseguramiento de la calidad de la aplicación Urban Scooter mediante la planificación y documentación de pruebas manuales.
+Como QA Engineer en formación, participé en el proceso de aseguramiento de la calidad de la aplicación Urban Scooter mediante la planificación, ejecución y documentación de pruebas manuales.
 
-Mis principales responsabilidades fueron:
+Durante el proyecto fui responsable de:
 
-- Analizar los requisitos funcionales del sistema.
+- Analizar los requisitos funcionales de la aplicación.
 - Diseñar casos de prueba para validar diferentes funcionalidades.
-- Elaborar listas de comprobación (checklists) para verificar el comportamiento esperado de la aplicación.
-- Realizar la validación de datos de prueba.
-- Documentar los artefactos generados durante el proceso de pruebas.
+- Elaborar listas de comprobación (checklists) para verificar el comportamiento esperado.
+- Validar datos de prueba.
+- Identificar y documentar defectos encontrados durante las pruebas mediante reportes en Jira.
+- Organizar y documentar los artefactos generados durante el proceso de pruebas.
