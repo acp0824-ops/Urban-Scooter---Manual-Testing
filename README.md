@@ -121,24 +121,19 @@ Urban-Scooter---Manual-Testing
 
 ---
 
-# 📚 Aprendizajes
+## 📈 Resultados del proyecto
 
-Durante este proyecto fortalecí competencias relacionadas con:
+Este proyecto me permitió aplicar el ciclo completo de pruebas manuales sobre una aplicación web y móvil, desde el análisis de los requisitos hasta la documentación de los defectos encontrados. Como resultado, elaboré artefactos de prueba y evidencias que respaldan el proceso de validación, contribuyendo a identificar oportunidades de mejora en la calidad del software.
 
-- Diseño de pruebas manuales.
-- Análisis de requisitos.
-- Técnicas de diseño de casos de prueba.
-- Elaboración de checklists.
-- Validación de datos.
-- Documentación de evidencias.
-- Reporte y seguimiento de defectos en Jira.
-- Pruebas funcionales en aplicaciones web y móviles.
+## 📚 Aprendizajes
 
----
+Durante el desarrollo de este proyecto fortalecí habilidades como:
 
-# 🚀 Resultado
-
-Este proyecto me permitió aplicar de forma práctica el ciclo de pruebas manuales, generando documentación estructurada y evidencias que respaldan el proceso de aseguramiento de la calidad de software.
+- Analizar requisitos para diseñar una estrategia de pruebas efectiva.
+- Diseñar casos de prueba, listas de comprobación y validaciones de datos para diferentes escenarios.
+- Ejecutar pruebas funcionales en aplicaciones web y móviles.
+- Documentar evidencias y registrar defectos de manera clara y estructurada utilizando Jira.
+- Organizar la documentación de pruebas para facilitar su seguimiento y mantenimiento.
 
 ---
 
